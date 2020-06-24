@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I am a ctfer 🍓
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mình, một cậu nhóc đang trên con đường lĩnh hội tri thức nhân loại.
+Blog này sẽ là nơi lưu giữ lại quá trình bập bẹ tập bước đi trên con đường đầy chông gai của cậu nhóc ấy. Liệu chặng đường ngày mai sẽ ra sao? Phải sống hết hôm nay thì mới biết được :3 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Ngày 23, tháng 6, 2020
